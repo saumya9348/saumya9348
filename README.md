@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saumya9348
 - 👀 I’m interested in api devlopment and backend
-- 🌱 I’m currently learning reactjs
+- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on api
 - 📫 How to reach me - panisaumyaranjan@gmail.com
 
