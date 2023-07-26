@@ -1,6 +1,4 @@
-# Full Stack Developer Portfolio
-
-![Full Stack Developer]
+# Full Stack Developer
 
 Welcome to my Full Stack Developer portfolio repository! This repository showcases my skills, projects, and experience as a Full Stack Developer. Here, you'll find information about the technologies I work with, my previous projects, and how to get in touch with me.
 
